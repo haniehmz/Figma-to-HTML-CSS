@@ -1,4 +1,3 @@
-<img width="1781" height="902" alt="contact7" src="https://github.com/user-attachments/assets/d57396a1-2dc3-476d-a17d-2c6a8eaf3cb3" />
 # ✈️ Bilito — Figma Front-End Practice
 
 A responsive front-end implementation of two pages from a travel website UI designed in **Figma**.
@@ -57,7 +56,7 @@ The responsive behavior is handled through CSS media queries, with a dedicated m
 
 ## Screenshots
 
-### Steps Page
+## Steps Page
 
 #### Desktop
 <p align="center">
@@ -93,7 +92,7 @@ The responsive behavior is handled through CSS media queries, with a dedicated m
 
 ---
 
-### Contact Us Page
+## Contact Us Page
 
 #### Desktop
 <p align="center">
