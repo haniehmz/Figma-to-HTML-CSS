@@ -1,4 +1,5 @@
-<img width="1042" height="626" alt="steps3" src="https://github.com/user-attachments/assets/59c6c32e-813e-4935-bde5-a91da5c0fdc3" /># ✈️ Bilito — Figma Front-End Practice
+<img width="1781" height="902" alt="contact7" src="https://github.com/user-attachments/assets/d57396a1-2dc3-476d-a17d-2c6a8eaf3cb3" />
+# ✈️ Bilito — Figma Front-End Practice
 
 A responsive front-end implementation of two pages from a travel website UI designed in **Figma**.
 
@@ -69,11 +70,9 @@ The responsive behavior is handled through CSS media queries, with a dedicated m
 #### Figma Design
 <p align="center">
   <img width="800" height="480" alt="steps3" src="https://github.com/user-attachments/assets/50b3aaae-0ec9-4f22-b053-5edcc5b63c74" />
+  <img width="800" height="360" alt="Footer1" src="https://github.com/user-attachments/assets/47a1ce3d-7473-437b-9ac8-f4b1d79a5c04" />
 </p>
 <br>
-
-
-
 
 
 #### Mobile
@@ -97,12 +96,38 @@ The responsive behavior is handled through CSS media queries, with a dedicated m
 ### Contact Us Page
 
 #### Desktop
+<p align="center">
+  <img width="800" height="400" alt="contact7" src="https://github.com/user-attachments/assets/2d5d8b12-d848-4ad2-a3c7-99514cfb5474" />
+  <img width="800" height="380" alt="contact8" src="https://github.com/user-attachments/assets/26f50923-6843-44d2-ae63-c96bc72f2a7c" />
+</p>
+<br>
 
-![Contact Desktop](screenshots/desktop-contact.png)
+
+
+#### Figma Design
+<p align="center">
+  <img width="800" height="450" alt="contact5" src="https://github.com/user-attachments/assets/76fe2bf0-0657-441e-b865-82da4d57b413" />
+  <img width="800" height="370" alt="contact6" src="https://github.com/user-attachments/assets/7ab8c182-6c6b-448a-97f1-2ab2c46a91a5" />
+</p>
+<br>
+
+
 
 #### Mobile
 
-![Contact Mobile](screenshots/mobile-contact.png)
+<p align="center">
+  <img width="300" height="380" alt="contact1" src="https://github.com/user-attachments/assets/1c7921a5-59f1-4ebf-b2a3-f3d65eb620af" />
+  <img width="300" height="360" alt="contact2" src="https://github.com/user-attachments/assets/20c51e52-2071-44a5-aa49-726490822e22" />
+</p>
+<br>
+
+#### Figma Design
+<p align="center">
+  <img width="300" height="480" alt="contact3" src="https://github.com/user-attachments/assets/368831a3-e516-4779-8fd8-53bee529d432" />
+  <img width="300" height="450" alt="contact4" src="https://github.com/user-attachments/assets/7fe22b6c-b435-48df-a6fc-34753ddc341e" />
+</p>
+<br>
+
 
 ---
 
